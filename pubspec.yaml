@@ -1,0 +1,15 @@
+name: danger_generic_plugins
+description: Some generic pugins for Danger dart
+version: 0.0.1
+homepage: https://github.com/furyou81/danger_generic_plugins
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  danger_core: ^1.0.0
+  
+dev_dependencies:
+  flutter_lints: ^1.0.4
