@@ -1,6 +1,6 @@
 name: danger_generic_plugins
 description: Some generic pugins for Danger dart
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/furyou81/danger_generic_plugins
 
 environment:
